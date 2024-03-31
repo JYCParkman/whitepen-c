@@ -1,0 +1,37 @@
+{
+  "name": "hitouch-tea",
+  "version": "1.0.2",
+  "description": "hitouch-tea",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "dependencies": {
+      "async": "~0.9.0",
+      "dxf-parsing": "^0.3.7",
+      "7th-setin": "^1.0.0",
+      "leader-tea-cgc.git": "^1.0.0",
+      "tangren-tea": "^1.0.0",
+      "pipi-tea": "^1.0.0",
+      "gm": "~1.17.0",
+      "underscore": "~1.7.0",
+      "xml2js": "~0.4.4",
+      "xmlbuilder": "^2.4.3"
+    },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JYCParkman/hitouch-tea.git"
+  },
+  "keywords": [
+    "design",
+    "svg",
+    "util",
+    "npm"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JYCParkman/design/issues"
+  },
+  "homepage": "https://github.com/JYCParkman/design#readme"
+}
